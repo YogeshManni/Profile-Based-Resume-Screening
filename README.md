@@ -10,6 +10,6 @@
  * Cleaning the data with removing punctuations, numbers, spaces etc.
  * Calculating Scores for each profile with the help of extracted Text.
  * Building a Dataframe using Pandas and represent data in form of table.
- * Using Matplotlib we will visually represent the strength fields of candidatein form of a Pie Chart.
+ * Using Matplotlib we will visually represent the strength fields of candidate in form of a Pie Chart.
  
  
